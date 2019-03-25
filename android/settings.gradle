@@ -1,0 +1,3 @@
+rootProject.name = 'ap_test_1644'
+
+include ':app'
